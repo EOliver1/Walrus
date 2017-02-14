@@ -14,3 +14,18 @@
 .clickable:hover, .otherClickable:hover {
   text-decoration: underline;
 }
+
+.night-mode {
+  background-color: black;
+  color: orange;
+}
+
+.day-mode {
+  background-color: white;
+  color: black;
+}
+
+.paragraphStylez {
+  border: 1px dashed;
+  background-color: red;
+}
