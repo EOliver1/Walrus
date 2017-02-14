@@ -2,11 +2,15 @@
   display: none;
 }
 
-.clickable {
+#bucketChronicles {
+  display: none;
+}
+
+.clickable, .otherClickable {
   cursor: pointer;
   color: #0088cc;
 }
 
-.clickable:hover {
+.clickable:hover, .otherClickable:hover {
   text-decoration: underline;
 }
